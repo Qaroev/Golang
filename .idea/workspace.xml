@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd9b3dff-52b9-4943-924f-7e7b0be22d20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_MYSQL/Api_Mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMPLE_WORKS/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_FILE/localfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_FILE/parse_Json_file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_FILE/read.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_FILE/read_in_console.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_FILE/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_XML GOLANG/users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_XML GOLANG/xml_read.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SENDING_EMAIl/email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/parseHtml.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WINDOW_DESKTOP.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/1_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/extandFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/generic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertionType/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/hub.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/game.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/generic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/generics.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/generics_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/oop.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/zip.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/number.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/1_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/iItem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/index.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/index_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_GOLang/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/copyfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/creatfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/fpprint.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/index.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/mainChack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/other.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/receiver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/reder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/tamplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/nested/webfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/readFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Channels.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/anonym.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/defer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/fact.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/fibanachi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/otob.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/panic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/sirez.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/site.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/ukasatel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toast_Window.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/window.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nodejs@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nodejs@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nodejs@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="nodejs: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nodejs@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="nodejs: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-318720951">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="7" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.151" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="11" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.opened" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="bin" value="1" />
+          <entry key="go" value="288" />
+          <entry key="hello" value="2" />
+          <entry key="html" value="13" />
+          <entry key="ico" value="3" />
+          <entry key="js" value="1" />
+          <entry key="json" value="5" />
+          <entry key="manifest" value="1" />
+          <entry key="md" value="5" />
+          <entry key="s" value="2" />
+          <entry key="sql" value="2" />
+          <entry key="svg" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="user" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="1" />
+          <entry key="Go" value="288" />
+          <entry key="HTML" value="13" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="SVG" value="1" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="3" />
+          <entry key="x86 Plan9 Assembly" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="9735" />
+          <entry key="hello" value="5" />
+          <entry key="html" value="42" />
+          <entry key="js" value="221" />
+          <entry key="json" value="13" />
+          <entry key="txt" value="93" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="9735" />
+          <entry key="HTML" value="42" />
+          <entry key="JSON" value="13" />
+          <entry key="JavaScript" value="221" />
+          <entry key="PLAIN_TEXT" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".complex" value="1" />
+          <entry key=".len" value="5" />
+          <entry key=".print" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comctl32.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2487" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comdlg32.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/istream.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/shell32.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5795" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/toolbar.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5376" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/typedef.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="185" column="22" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Go/src/builtin/builtin.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/toast_Window.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#14#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/user32.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="501" column="23" selection-start-line="501" selection-start-column="23" selection-end-line="501" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CO</find>
+      <find>Type</find>
+      <find>IndexOf</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example/generics.go" />
+        <option value="$PROJECT_DIR$/example/generics_test.go" />
+        <option value="$PROJECT_DIR$/example/zip.go" />
+        <option value="$PROJECT_DIR$/example/example.go" />
+        <option value="$PROJECT_DIR$/example/http.go" />
+        <option value="$PROJECT_DIR$/example/scan.go" />
+        <option value="$PROJECT_DIR$/example/oop.go" />
+        <option value="$PROJECT_DIR$/assertionType/main.go" />
+        <option value="$PROJECT_DIR$/server/site.go" />
+        <option value="$PROJECT_DIR$/server/struct.go" />
+        <option value="$PROJECT_DIR$/API_MYSQL/Api_Mysql.go" />
+        <option value="$PROJECT_DIR$/READ_XML GOLANG/users.xml" />
+        <option value="$PROJECT_DIR$/READ_XML GOLANG/xml_read.go" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/index.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/footer.go" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/header.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/navbar.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/footer.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/about.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/parseHtml.go" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/homepage.html" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go" />
+        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/home.html" />
+        <option value="$PROJECT_DIR$/server/anonym.go" />
+        <option value="$PROJECT_DIR$/mongoDB_GOLang/main.go" />
+        <option value="$PROJECT_DIR$/server/3.go" />
+        <option value="$PROJECT_DIR$/example/5.go" />
+        <option value="$PROJECT_DIR$/examples/number.go" />
+        <option value="$PROJECT_DIR$/examples/main.go" />
+        <option value="$PROJECT_DIR$/server/4.go" />
+        <option value="$PROJECT_DIR$/server/5.go" />
+        <option value="$PROJECT_DIR$/example/index.js" />
+        <option value="$PROJECT_DIR$/example/game.go" />
+        <option value="$PROJECT_DIR$/example/7.go" />
+        <option value="$PROJECT_DIR$/assertionType/extandFile.go" />
+        <option value="$PROJECT_DIR$/example/6.go" />
+        <option value="$PROJECT_DIR$/chat/hub.go" />
+        <option value="$PROJECT_DIR$/chat/home.html" />
+        <option value="$PROJECT_DIR$/chat/main.go" />
+        <option value="$PROJECT_DIR$/chat/client.go" />
+        <option value="$PROJECT_DIR$/SENDING_EMAIl/email.go" />
+        <option value="$PROJECT_DIR$/READ_FILE/localfile.txt" />
+        <option value="$PROJECT_DIR$/READ_FILE/read.go" />
+        <option value="$PROJECT_DIR$/EXAMPLE_WORKS/read.txt" />
+        <option value="$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go" />
+        <option value="$PROJECT_DIR$/READ_FILE/read_in_console.go" />
+        <option value="$PROJECT_DIR$/READ_FILE/user.json" />
+        <option value="$PROJECT_DIR$/READ_FILE/parse_Json_file.go" />
+        <option value="$PROJECT_DIR$/WINDOW_DESKTOP.go" />
+        <option value="$PROJECT_DIR$/window.go" />
+        <option value="$PROJECT_DIR$/toast_Window.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="165" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../pkg/windows_amd64/github.com/gorilla" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build toast_Window.go">
+    <configuration name="go build WINDOW_DESKTOP.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/WINDOW_DESKTOP.go" />
+      <package value="github.com/Qaroev/Golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build parse_Json_file.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/READ_FILE/parse_Json_file.go" />
+      <package value="github.com/Qaroev/Golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build read_in_console.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/READ_FILE/read_in_console.go" />
+      <package value="github.com/Qaroev/Golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build toast_Window.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/toast_Window.go" />
+      <package value="github.com/Qaroev/Golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build window.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/window.go" />
+      <package value="github.com/Qaroev/Golang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build read_in_console.go" />
+      <item itemvalue="Go Build.go build parse_Json_file.go" />
+      <item itemvalue="Go Build.go build WINDOW_DESKTOP.go" />
+      <item itemvalue="Go Build.go build window.go" />
+      <item itemvalue="Go Build.go build toast_Window.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build toast_Window.go" />
+        <item itemvalue="Go Build.go build window.go" />
+        <item itemvalue="Go Build.go build WINDOW_DESKTOP.go" />
+        <item itemvalue="Go Build.go build parse_Json_file.go" />
+        <item itemvalue="Go Build.go build read_in_console.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 43m 08s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 45m 09s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 48m 01s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 50m 11s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 51m 03s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 58m 02s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 20h 59m 33s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 21h 00m 25s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 21h 01m 18s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNum_ToString2_in_github_com_Qaroev_Golang_main - 2019.02.17 at 21h 19m 54s.xml">
+      <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3362256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39045554" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37527114" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.14498934" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/index.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/ukasatel.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/reder.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/reder.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/slice.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/slice.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/slice.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/slice.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/other.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/package/nested/other.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/2.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/2.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/2.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/2.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>49</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/1_test.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/index.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/index.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/index.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/index.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/index.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/1.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/1.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/1.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/1.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/2.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/2.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/2.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/5.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/5.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/scan.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/scan.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/assertionType/main.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/assertionType/main.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/assertionType/main.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/assertionType/main.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/API_MYSQL/Api_Mysql.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/API_MYSQL/Api_Mysql.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/API_MYSQL/Api_Mysql.go</url>
+          <line>44</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/API_MYSQL/Api_Mysql.go</url>
+          <line>69</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/API_MYSQL/Api_Mysql.go</url>
+          <line>68</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/anonym.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/anonym.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/examples/main.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/3.go</url>
+          <line>89</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/3.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/3.go</url>
+          <line>90</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/3.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/4.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server/5.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/context_gorilla_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/context_native_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/doc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/example_authentication_middleware_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/example_route_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/middleware.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/server.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/client.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/hub.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/fuzzingclient.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/hub.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/net/http/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="322" column="5" lean-forward="true" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../mailgun/mailgun-go/rest_shim.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SENDING_EMAIl/email.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_FILE/read.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="44" column="1241" selection-start-line="44" selection-start-column="1202" selection-end-line="44" selection-end-column="1241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_FILE/read_in_console.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_XML GOLANG/users.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_FILE/user.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_FILE/localfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ_FILE/parse_Json_file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/app.manifest">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_edit.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_error.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_lightning.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WINDOW_DESKTOP.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#16#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/window.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#16#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/controlbase.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="122" column="24" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_docking/release.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_docking/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_slider/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="54" column="6" lean-forward="true" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comctl32.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2487" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comdlg32.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/istream.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/shell32.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/toolbar.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/user32.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="501" column="23" selection-start-line="501" selection-start-column="23" selection-end-line="501" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/typedef.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="185" column="22" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../gopkg.in/toast.v1/toast.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5336">
+          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast_Window.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
