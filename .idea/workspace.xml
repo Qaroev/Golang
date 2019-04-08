@@ -2,105 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9b3dff-52b9-4943-924f-7e7b0be22d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_MYSQL/Api_Mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAMPLE_WORKS/read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_FILE/localfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_FILE/parse_Json_file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_FILE/read.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_FILE/read_in_console.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_FILE/user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_XML GOLANG/users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ_XML GOLANG/xml_read.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SENDING_EMAIl/email.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEBCALC_GOLANG/parseHtml.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WINDOW_DESKTOP.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/1_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/extandFile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/generic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assertionType/types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/hub.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/game.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/generic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/generics.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/generics_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/oop.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/scan.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/zip.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/number.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/1_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/iItem.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/index_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_GOLang/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/copyfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/creatfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/fpprint.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/hello" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/mainChack.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/other.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/readfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/receiver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/reder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/tamplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/nested/webfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package/readFile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Channels.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/anonym.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/defer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fact.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fibanachi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/otob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/panic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/sirez.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/site.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ukasatel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toast_Window.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/window.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parse_Apk/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parse_Apk/Ui.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parse_Apk/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parse_Apk/test/36.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uploading_Files/tg_image_1463071270.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uploading_Files/upload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_EXAMPLE/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_EXAMPLE/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_EXAMPLE/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_EXAMPLE/webserver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assertionType/types.go" beforeDir="false" afterPath="$PROJECT_DIR$/assertionType/types.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,19 +67,19 @@
     <session id="-318720951">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.119" value="1" />
           <entry key="project.open.time.12" value="5" />
-          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.151" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -174,31 +92,34 @@
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.4" value="11" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.5" value="13" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.5" value="17" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.9" value="3" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="97" />
+          <entry key="project.opened" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bat" value="1" />
-          <entry key="bin" value="1" />
-          <entry key="go" value="288" />
+          <entry key="bin" value="2" />
+          <entry key="go" value="338" />
+          <entry key="go___jb_tmp___" value="1" />
           <entry key="hello" value="2" />
-          <entry key="html" value="13" />
+          <entry key="html" value="16" />
           <entry key="ico" value="3" />
+          <entry key="java" value="2" />
           <entry key="js" value="1" />
           <entry key="json" value="5" />
           <entry key="manifest" value="1" />
-          <entry key="md" value="5" />
+          <entry key="map" value="1" />
+          <entry key="md" value="6" />
           <entry key="s" value="2" />
           <entry key="sql" value="2" />
           <entry key="svg" value="1" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="5" />
           <entry key="user" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -206,35 +127,38 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="1" />
-          <entry key="Go" value="288" />
-          <entry key="HTML" value="13" />
+          <entry key="Go" value="338" />
+          <entry key="HTML" value="16" />
           <entry key="Image" value="3" />
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="SVG" value="1" />
           <entry key="Scratch" value="2" />
+          <entry key="SourceMap" value="1" />
           <entry key="XML" value="3" />
           <entry key="x86 Plan9 Assembly" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="9735" />
+          <entry key="go" value="10920" />
           <entry key="hello" value="5" />
-          <entry key="html" value="42" />
+          <entry key="html" value="103" />
           <entry key="js" value="221" />
           <entry key="json" value="13" />
+          <entry key="map" value="4" />
           <entry key="txt" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="9735" />
-          <entry key="HTML" value="42" />
+          <entry key="Go" value="10920" />
+          <entry key="HTML" value="103" />
           <entry key="JSON" value="13" />
           <entry key="JavaScript" value="221" />
           <entry key="PLAIN_TEXT" value="98" />
+          <entry key="SourceMap" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -249,77 +173,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comctl32.go">
+        <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/router.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2487" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comdlg32.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/istream.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/shell32.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5795" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/toolbar.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5376" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/typedef.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="185" column="22" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Go/src/builtin/builtin.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+            <state relative-caret-position="351">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#14#70#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/toast_Window.go">
+        <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="820">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
               <folding>
-                <element signature="e#14#52#0" expanded="true" />
+                <element signature="e#14#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/user32.go">
+        <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/webserver.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="501" column="23" selection-start-line="501" selection-start-column="23" selection-end-line="501" selection-end-column="23" />
+            <state relative-caret-position="324">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Go/src/sync/mutex.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4563">
+              <caret line="173" column="46" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Uploading_Files/upload.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="820">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEBCALC_GOLANG/about.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/1.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -347,21 +281,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/generics.go" />
-        <option value="$PROJECT_DIR$/example/generics_test.go" />
-        <option value="$PROJECT_DIR$/example/zip.go" />
-        <option value="$PROJECT_DIR$/example/example.go" />
-        <option value="$PROJECT_DIR$/example/http.go" />
-        <option value="$PROJECT_DIR$/example/scan.go" />
-        <option value="$PROJECT_DIR$/example/oop.go" />
-        <option value="$PROJECT_DIR$/assertionType/main.go" />
-        <option value="$PROJECT_DIR$/server/site.go" />
-        <option value="$PROJECT_DIR$/server/struct.go" />
-        <option value="$PROJECT_DIR$/API_MYSQL/Api_Mysql.go" />
-        <option value="$PROJECT_DIR$/READ_XML GOLANG/users.xml" />
-        <option value="$PROJECT_DIR$/READ_XML GOLANG/xml_read.go" />
-        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/index.html" />
-        <option value="$PROJECT_DIR$/WEBCALC_GOLANG/footer.go" />
         <option value="$PROJECT_DIR$/WEBCALC_GOLANG/header.html" />
         <option value="$PROJECT_DIR$/WEBCALC_GOLANG/navbar.html" />
         <option value="$PROJECT_DIR$/WEBCALC_GOLANG/footer.html" />
@@ -398,6 +317,21 @@
         <option value="$PROJECT_DIR$/WINDOW_DESKTOP.go" />
         <option value="$PROJECT_DIR$/window.go" />
         <option value="$PROJECT_DIR$/toast_Window.go" />
+        <option value="$PROJECT_DIR$/Parse_Apk/main.go" />
+        <option value="$PROJECT_DIR$/Parse_Apk/2.go" />
+        <option value="$PROJECT_DIR$/Parse_Apk/Ui.go" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa11564.48322/assets/www/15.js.map" />
+        <option value="$PROJECT_DIR$/example/8.go" />
+        <option value="$PROJECT_DIR$/assertionType/types.go" />
+        <option value="$PROJECT_DIR$/WEB_EXAMPLE/1.go" />
+        <option value="$PROJECT_DIR$/WEB_EXAMPLE/2.go" />
+        <option value="$PROJECT_DIR$/WEB_EXAMPLE/router.go" />
+        <option value="$PROJECT_DIR$/static/1.go" />
+        <option value="$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/static/new.html" />
+        <option value="$PROJECT_DIR$/WEB_EXAMPLE/webserver.go" />
+        <option value="$PROJECT_DIR$/Uploading_Files/upload.go" />
       </list>
     </option>
   </component>
@@ -407,8 +341,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="165" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -419,7 +353,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -431,6 +364,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -442,10 +376,15 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../pkg/windows_amd64/github.com/gorilla" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GolangExmaple" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LION\go\src\github.com\Qaroev\Golang\Parse_Apk\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -459,71 +398,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build toast_Window.go">
-    <configuration name="go build WINDOW_DESKTOP.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build parse_Tamplate.go">
+    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/WINDOW_DESKTOP.go" />
+      <filePath value="$PROJECT_DIR$/WEB_EXAMPLE/1.go" />
       <package value="github.com/Qaroev/Golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build parse_Json_file.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build calc_Go.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/READ_FILE/parse_Json_file.go" />
+      <filePath value="$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go" />
       <package value="github.com/Qaroev/Golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build read_in_console.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build parse_Tamplate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/READ_FILE/read_in_console.go" />
+      <filePath value="$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go" />
       <package value="github.com/Qaroev/Golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build toast_Window.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build upload.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/toast_Window.go" />
+      <filePath value="$PROJECT_DIR$/Uploading_Files/upload.go" />
       <package value="github.com/Qaroev/Golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build window.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build webserver.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/window.go" />
+      <filePath value="$PROJECT_DIR$/WEB_EXAMPLE/webserver.go" />
       <package value="github.com/Qaroev/Golang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build read_in_console.go" />
-      <item itemvalue="Go Build.go build parse_Json_file.go" />
-      <item itemvalue="Go Build.go build WINDOW_DESKTOP.go" />
-      <item itemvalue="Go Build.go build window.go" />
-      <item itemvalue="Go Build.go build toast_Window.go" />
+      <item itemvalue="Go Build.go build parse_Tamplate.go" />
+      <item itemvalue="Go Build.go build webserver.go" />
+      <item itemvalue="Go Build.go build upload.go" />
+      <item itemvalue="Go Build.go build calc_Go.go" />
+      <item itemvalue="Go Build.go build 1.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build toast_Window.go" />
-        <item itemvalue="Go Build.go build window.go" />
-        <item itemvalue="Go Build.go build WINDOW_DESKTOP.go" />
-        <item itemvalue="Go Build.go build parse_Json_file.go" />
-        <item itemvalue="Go Build.go build read_in_console.go" />
+        <item itemvalue="Go Build.go build parse_Tamplate.go" />
+        <item itemvalue="Go Build.go build 1.go" />
+        <item itemvalue="Go Build.go build calc_Go.go" />
+        <item itemvalue="Go Build.go build upload.go" />
+        <item itemvalue="Go Build.go build webserver.go" />
       </list>
     </recent_temporary>
   </component>
@@ -559,24 +498,35 @@
       <configuration name="TestNum_ToString2 in github.com/Qaroev/Golang/main" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20337197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3362256" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47071582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39045554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37527114" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37527114" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Console" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -585,6 +535,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -902,289 +878,389 @@
           <line>39</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Parse_Apk/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Parse_Apk/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../phinexdaz/ipapk/parser.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/8.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/8.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/example/8.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/assertionType/types.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/2.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/2.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/static/1.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/webserver.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/webserver.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/WEB_EXAMPLE/webserver.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;*hash/crc32.digest&quot;)(825741689096)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/context_gorilla_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/context_native_test.go">
+    <entry file="file://C:/Go/src/regexp/regexp.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/doc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7564" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/example_authentication_middleware_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-395" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/example_route_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/mux/middleware.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/server.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/client.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/home.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/chat/hub.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../gorilla/websocket/examples/autobahn/fuzzingclient.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat/hub.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="206">
+          <caret line="434" selection-start-line="434" selection-end-line="434" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat/main.go">
+    <entry file="file://C:/Go/src/archive/zip/register.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="847">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="422">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat/client.go">
+    <entry file="file://C:/Go/src/archive/zip/reader.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="179">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat/home.html">
+    <entry file="file://$PROJECT_DIR$/../../phinexdaz/ipapk/parser.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/app/internal/apptest/apptest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/app/internal/testapp/testapp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1889" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/asset/asset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/bind/java/ClassesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/bind/java/context_android.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/bind/java/seq_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2106" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/geom/geom.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/flappy/game.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4941" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/flappy/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/basic/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3942">
+          <caret line="159" column="1" selection-start-line="159" selection-start-column="1" selection-end-line="159" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/basic/main_x.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/flappy/main_x.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/ivy/android/app/src/androidTest/java/org/golang/ivy/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/network/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2727">
+          <caret line="109" column="1" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_Apk/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#14#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_Apk/2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_Apk/Ui.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa11564.48322/assets/www/15.js.map" />
     <entry file="file://C:/Go/src/net/http/request.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="322" column="5" lean-forward="true" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
+        <state relative-caret-position="20979">
+          <caret line="798" selection-start-line="798" selection-end-line="798" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../mailgun/mailgun-go/rest_shim.go">
+    <entry file="file://C:/Go/src/runtime/panic.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2187">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="15741">
+          <caret line="587" selection-start-line="587" selection-end-line="587" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SENDING_EMAIl/email.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_FILE/read.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="44" column="1241" selection-start-line="44" selection-start-column="1202" selection-end-line="44" selection-end-column="1241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_FILE/read_in_console.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_XML GOLANG/users.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_XML GOLANG/xml_read.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_FILE/user.json">
+    <entry file="file://$PROJECT_DIR$/../../../golang.org/x/mobile/example/network/main_x.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/READ_FILE/localfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="65" selection-start-column="65" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READ_FILE/parse_Json_file.go">
+    <entry file="file://$PROJECT_DIR$/example/8.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4161" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/utils.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/app.manifest">
+    <entry file="file://$PROJECT_DIR$/example/generic.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_edit.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_error.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/application_lightning.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_contextmenu/main.go">
+    <entry file="file://$PROJECT_DIR$/example/generics.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="243">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WINDOW_DESKTOP.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#16#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/window.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="e#16#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/controlbase.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="122" column="24" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_docking/release.bat">
+    <entry file="file://$PROJECT_DIR$/example/http.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_docking/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1458" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/examples/sample_slider/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="54" column="6" lean-forward="true" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comctl32.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2487" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/comdlg32.go">
+    <entry file="file://$PROJECT_DIR$/assertionType/extandFile.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/istream.go">
+    <entry file="file://$PROJECT_DIR$/assertionType/generic.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="1647">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/shell32.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5795" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assertionType/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/toolbar.go">
+    <entry file="file://$PROJECT_DIR$/assertionType/types.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5376" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/user32.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="501" column="23" selection-start-line="501" selection-start-column="23" selection-end-line="501" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tadvi/winc/w32/typedef.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="185" column="22" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../gopkg.in/toast.v1/toast.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5336">
-          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="999">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/toast_Window.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="216">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5265">
+          <caret line="199" column="18" selection-start-line="199" selection-start-column="18" selection-end-line="199" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/generics_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#14#52#0" expanded="true" />
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/webserver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/sync/mutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4563">
+          <caret line="173" column="46" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLE_WORKS/read_file.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uploading_Files/upload.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEBCALC_GOLANG/about.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEBCALC_GOLANG/calc_Go.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#14#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_EXAMPLE/parse_Tamplate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#53#0" expanded="true" />
           </folding>
         </state>
       </provider>

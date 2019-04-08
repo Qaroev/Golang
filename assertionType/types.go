@@ -39,11 +39,11 @@ func (a Accounts) SetSum(sum int) {
 }
 
 func main() {
-	var ac = NewAccounts(Accounts{nil,1,3}, 5000)
+	var ac = NewAccounts(Accounts{nil, "vghkjfhhj", 3}, 5000)
 	r := ac.GetId()
-	fmt.Println(reflect.TypeOf(r))
+	fmt.Println(reflect.TypeOf(r.id))
 	fmt.Println(ac.GetSum())
-	var name  = 4555
+	var name = 4555
 	ac.SetSum(name)
 	fmt.Println(ac.sum)
 }
